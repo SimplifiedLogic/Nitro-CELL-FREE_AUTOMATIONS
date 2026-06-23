@@ -9,7 +9,7 @@ FREE Nitro-CELL Excel Automation Workbooks!
 ## Sample Automations!
 This project contains FREE Creo Parametric Batch Export Automations using Nitro-CELL!
 
-These can be used by either FREE or Purchased Nitro-CELL License Users.
+These can be used by <strong>-EITHER-</strong> Nitro-CELL FREE or Purchased License Users.
 
 ## Minimum Requirements
 * Creo Parametric
@@ -26,11 +26,24 @@ NOTE: The Excel Add-In is OPTIONAL but provides Excel Tool-Tips for Nitro-CELL C
 5. Press "Do It!" Button
 6. Review Results!
 
-NOTE: Please familuarize yourself with the Excel Workbook and Nitro-CELL Automation before Executing.
+<strong>NOTE:</strong> Please familuarize yourself with the Excel Workbook and Nitro-CELL Automation before Executing.
 Some Excel Automation Files will generate sub-directories to export content out of Creo Parametric.
 
-## USE AT YOUR OWN RISK
-These files contain minimal instructions for Creo / Excel Batch Automations using Nitro-CELL
 
+## CAN I MODIFY / IMPROVE THESE?!
+A: YES! ABSOLUTELY!
+These automations are just normal Excel Workbooks.
+
+Nitro-CELL only looks for specific Worksheet Names and content formats.  You can add your own worksheets, formulas, tables, external connections, and Power Query to extend functionality and make things your own.
+
+Nitro-CELL should be used to create new Nitro-CELL automation Worksheets (Creo functions and workflows).  We strongly recommend you use the Nitro-CELL Excel Add-in if you are going to extend these workbooks or create new ones to automate Creo Parametric - mainly because it will enable contextual tool tips for Nitro-CELL commands and options. 
+
+## What about Mapkeys?
+A: YES! ABSOLUTELY!
+
+Nitro-CELL can run Mapkeys - but not the "key" - the content of the Mapkey pasted into Excel. Mapkeys are often sensitive to the version of Creo Parametric you are running, so you might need to re-record a mapkey when you go to a new Creo version when this happens.  But Mapkeys can be very handy when specific functions are not available from PTC as an interface.
+
+## USE AT YOUR OWN RISK
+These files contain minimal instructions for Creo / Excel Batch Automations using Nitro-CELL for basic things.  Always review to understand what these files do.
 
 Enjoy!
