@@ -12,6 +12,7 @@ A: NO!
 These automations can be used by <strong>-EITHER-</strong> 
 * Nitro-CELL FREE Users, or
 * Nitro-CELL Purcahsed License Users.
+  
 NOTE: Creo Parametric License is (obviously) required!
 
 ## Minimum Requirements
