@@ -3,13 +3,16 @@
 <img width="750" height="507" alt="Nitro-CELL_ExampleAutomation" src="https://github.com/user-attachments/assets/7eeef77f-ffd7-4719-a50c-3f6b9b42baf2" />
 </p>
 
-# Nitro-CELL-FREE_AUTOMATIONS
-FREE Nitro-CELL Excel Automation Workbooks!
+# Nitro-CELL FREE AUTOMATION Workbooks
+The Excel Workbooks in this REPO are provided at NO COST executable automation examples for Creo Parametric using Nitro-CELL.
 
-## Sample Automations!
-This project contains FREE Creo Parametric Batch Export Automations using Nitro-CELL!
+# Is a License Required?
+A: NO!
 
-These can be used by <strong>-EITHER-</strong> Nitro-CELL FREE or Purchased License Users.
+These automations can be used by <strong>-EITHER-</strong> 
+* Nitro-CELL FREE Users, or
+* Nitro-CELL Purcahsed License Users.
+NOTE: Creo Parametric License is (obviously) required!
 
 ## Minimum Requirements
 * Creo Parametric
@@ -32,6 +35,7 @@ Some Excel Automation Files will generate sub-directories to export content out 
 
 ## CAN I MODIFY / IMPROVE THESE?!
 A: YES! ABSOLUTELY!
+
 These automations are just normal Excel Workbooks.
 
 Nitro-CELL only looks for specific Worksheet Names and content formats.  You can add your own worksheets, formulas, tables, external connections, and Power Query to extend functionality and make things your own.
