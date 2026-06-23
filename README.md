@@ -1,3 +1,8 @@
+
+<p align="center">
+<img width="750" height="507" alt="Nitro-CELL_ExampleAutomation" src="https://github.com/user-attachments/assets/7eeef77f-ffd7-4719-a50c-3f6b9b42baf2" />
+</p>
+
 # Nitro-CELL-FREE_AUTOMATIONS
 FREE Nitro-CELL Excel Automation Workbooks!
 
