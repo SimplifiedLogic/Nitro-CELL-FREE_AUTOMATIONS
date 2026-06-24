@@ -4,7 +4,7 @@
 </p>
 
 # Nitro-CELL FREE AUTOMATION Workbooks
-The Excel Workbooks in this REPO are provided at NO COST executable automation examples for Creo Parametric using Nitro-CELL.
+The Excel Workbooks in this REPO are provided at NO COST / FREE executable Nitro-CELL automation examples for Creo Parametric.  These automations were created to address common automation pain points for users and administrators.
 
 * Batch Exports
 * Batch Conversions
